@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "M7.2 quake hits Alaska Peninsula, tsunami warning issued for nearby region - Reuters",
+            "description": "An earthquake of magnitude 7.2 struck the Alaska Peninsula region early on Sunday, the United States Geological Survey (USGS) said, and a tsunami warning for nearby regions was issued but later withdrawn.",
+            "url": "https://www.reuters.com/business/environment/magnitude-74-earthquake-strikes-alaska-peninsula-region-tsunami-warning-issued-2023-07-16/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.webp?d=148",
+            "publishedAt": "2023-07-16T07:52:30Z",
+            "content": "July 16 (Reuters) - An earthquake of magnitude 7.2 struck the Alaska Peninsula region early on Sunday, the United States Geological Survey (USGS) said, and a tsunami warning for nearby regions was is… [+622 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melissa Alonso, Jeremy Grisham",
+            "title": "Alabama woman who went missing after seeing a toddler walking on the interstate has been found alive, police say - CNN",
+            "description": "An Alabama woman who went missing after telling a 911 dispatcher that she saw a toddler walking alone on the side of an interstate has been found alive, according to authorities.",
+            "url": "https://www.cnn.com/2023/07/16/us/carlee-russell-found-alabama/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230714140210-01-carlethia-nichole-russell.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-16T06:47:00Z",
+            "content": "An Alabama woman who went missing after telling a 911 dispatcher that she saw a toddler walking alone on the side of an interstate has been found alive, according to authorities.\r\nCarlethia Carlee Ni… [+1249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Check your tickets! 2 CA tickets are 'Big Winners' in Friday's Mega Millions drawing - KABC-TV",
+            "description": "Check your tickets! Two \"Big Winners\" $1 million tickets were sold in California for Friday's Mega Millions drawing.",
+            "url": "https://abc7.com/mega-millions-powerball-jackpot-numbers/13509151/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/13509186_071523-kabc-11p-powerball-vid.jpg?w=1600",
+            "publishedAt": "2023-07-16T06:28:36Z",
+            "content": "Check your tickets! Two \"Big Winners\" $1 million tickets were sold in California for Friday's Mega Millions drawing.\r\nFriday's winning numbers for Mega Millions were 10-24-48-51-66 and megaplier of 1… [+424 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "The Associated Press",
+            "title": "Ukraine bides its time in its counteroffensive, trying to stretch Russian forces before striking - The Associated Press",
+            "description": "The first phase of Ukraine's counteroffensive to recapture Russian-occupied territory after more than 16 months of war began weeks ago without fanfare. Kyiv has claimed that its troops are edging forward. But otherwise it has not offered much detail on how th…",
+            "url": "https://apnews.com/article/russia-ukraine-war-counteroffensive-explainer-ff774fce8608b464a406ae087b1a3607",
+            "urlToImage": "https://dims.apnews.com/dims4/default/cd4803e/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2Fc0%2Fe22984752081b0dbc997c2fdcd5d%2F65480570f7c045a98c9132991e837699",
+            "publishedAt": "2023-07-16T06:05:00Z",
+            "content": "The first phase of Ukraines counteroffensive to recapture Russian-occupied territory began weeks ago without fanfare. Apart from claiming that its troops are edging forward, Kyiv has not offered much… [+5100 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Brett Okamoto",
+            "title": "Mayra Bueno Silva surprises Holly Holm by submission, eyes title shot - ESPN - ESPN",
+            "description": "Mayra Bueno Silva submitted former champion Holly Holm via standing guillotine choke in the second round of their UFC Fight Night main event on Saturday.",
+            "url": "https://www.espn.com/mma/story/_/id/38017805/mayra-bueno-silva-surprises-holly-holm-submission-eyes-title-shot",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0716%2Fr1198409_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-07-16T05:18:00Z",
+            "content": "The UFC women's bantamweight division is in need of new blood following the recent retirement of dominant champion Amanda Nunes -- and it seems to have found it in Mayra Bueno Silva.\r\nSilva (10-2-1) … [+2230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "‘Mission: Impossible – Dead Reckoning Part One’ Sets Franchise 5-Day U.S. Opening Record With $80M – Late Saturday Box Office Update - Deadline",
+            "description": "SATURDAY PM UPDATE: Facts are facts, and Paramount/Skydance’s Mission: Impossible – Dead Reckoning Part One set a 5-day opening domestic record for the franchise with $80M, we hear. Pre…",
+            "url": "https://deadline.com/2023/07/mission-impossible-dead-reckoning-tom-cruise-box-office-opening-1235439165/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/mi7-09011r3-1.jpg?w=1024",
+            "publishedAt": "2023-07-16T04:56:00Z",
+            "content": "SATURDAY PM UPDATE: Facts are facts, and Paramount/Skydance’s Mission: Impossible – Dead ReckoningPart Oneset a 5-day opening domestic record for the franchise with $80M, we hear. \r\nPrevious best 5-d… [+2343 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Homero De la Fuente",
+            "title": "LeBron James is switching back to jersey number 23 ‘out of respect’ for the late Bill Russell - CNN",
+            "description": "NBA superstar LeBron James will switch back to jersey number 23 for the Los Angeles Lakers’ upcoming season, the team announced on Saturday.",
+            "url": "https://www.cnn.com/2023/07/16/sport/lebron-james-jersey-number-bill-russell/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230716000619-lebron-james-jersey-number.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-16T04:44:00Z",
+            "content": "NBA superstar LeBron James will switch back to jersey number 23 for the Los Angeles Lakers upcoming season, the team announced on Saturday. \r\nJames, who has worn the No. 23 jersey in 14 of his 20 sea… [+2509 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Cydney Henderson",
+            "title": "WNBA All-Star Game takeaways: Jewell Loyd sets scoring record, Brittney Griner dunks again - USA TODAY",
+            "description": "An eventful 2023 WNBA All-Star Game saw Brittney Griner throw down and Jewell Loyd set a new game record with 31 points in Team Stewart's blowout win.",
+            "url": "https://www.usatoday.com/story/sports/wnba/2023/07/15/wnba-all-star-game-jewell-loyd-points-record-brittney-griner/70417352007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/07/16/USAT/f5840220-14b4-41cc-a594-3287fb9f7830-jewell_loyd.jpg?crop=5999,3374,x1,y0&width=3200&height=1800&format=pjpg&auto=webp",
+            "publishedAt": "2023-07-16T04:41:15Z",
+            "content": "LAS VEGAS All-Star captain Breanna Stewart drafted Phoenix Mercury star Brittney Griner with her first overall pick because we need her dunks. Griner did just that Saturday in Las Vegas.\r\nGriner triu… [+5189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "pgatour.com"
+            },
+            "author": "Staff",
+            "title": "Steph Curry goes crazy after making an ace at the American Century Championship - PGA TOUR - PGA TOUR",
+            "description": "Two-time NBA MVP Stephen Curry can add another accolade to his long list.",
+            "url": "https://www.pgatour.com/article/news/latest/2023/07/15/steph-curry-hole-in-one-ace-american-century-championship-pro-am",
+            "urlToImage": "https://res.cloudinary.com/pgatour-prod/w_1200,h_628,c_fill,f_auto/pgatour/news/editorial/2023/07/15/steph-curry-ace.jpg",
+            "publishedAt": "2023-07-16T04:35:53Z",
+            "content": "Written by Staff \r\n@PGATOUR\r\nTwo-time NBA MVP Stephen Curry can add another accolade to his long list.\r\nCurry made an ace Saturday at the seventh hole at the Edgewood Tahoe South course in Stateline,… [+1298 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Rachel Sharp",
+            "title": "Gilgo Beach serial killer suspect Rex Heuermann charged with three murders – live - The Independent",
+            "description": "Authorities vow to continue investigation as accused Suffolk County serial killer pleads not guilty to six counts of murder",
+            "url": "https://www.independent.co.uk/news/world/americas/crime/rex-heuermann-gilgo-beach-serial-killer-long-island-b2375863.html",
+            "urlToImage": "https://static.independent.co.uk/2023/07/14/20/SEI164089462%20copy.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-07-16T04:04:00Z",
+            "content": "Rex Heuermann insists on his innocence, attorney says \r\nGilgo Beach murders suspect Rex Heuermann appeared in court on Friday as he insisted on his innocence.\r\nMr Heuermann, 59, is accused of murderi… [+1111 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jake Kwon, Heather Chen",
+            "title": "Large-scale rescue operation recovers 7 bodies after flooding traps cars in South Korea tunnel - CNN",
+            "description": "Rescue workers pulled seven bodies from vehicles trapped in a flooded underpass in central South Korea, authorities said Sunday, after days of torrential rain caused landslides and flash floods that have killed at least 33 people.",
+            "url": "https://www.cnn.com/2023/07/15/asia/south-korea-floods-gungpyeong-traffic-tunnel-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230715194739-02-cheongju-south-korea-underpass-flooding-0716.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-16T03:56:00Z",
+            "content": "Rescue workers pulled seven bodies from vehicles trapped in a flooded underpass in central South Korea, authorities said Sunday, after days of torrential rain caused landslides and flash floods that … [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Katherine Donlevy",
+            "title": "DNC chair slams RFK Jr's claims COVID was engineered to spare Jews, Chinese - New York Post ",
+            "description": "The head of the Democratic party was one of many to distance himself from Robert F. Kennedy Jr. Saturday after The Post revealed the presidential hopeful spewed conspiracies that COVID-19 was &#822…",
+            "url": "https://nypost.com/2023/07/15/dnc-chair-slams-rfk-jrs-claims-covid-was-engineered-to-spare-jews-chinese/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/newspress-collage-sjjgs39tk-1689478400042.jpg?quality=75&strip=all&1689464053&w=1024",
+            "publishedAt": "2023-07-16T03:47:00Z",
+            "content": "The head of the Democratic party was one of many to distance himself from Robert F. Kennedy Jr. Saturday after The Post revealed the presidential hopeful spewed conspiracies that COVID-19 was “ethnic… [+2586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "Elon Musk Makes Two Important Changes On Twitter Following Launch Of Ad Revenue Sharing Program - Deadline",
+            "description": "Elon Musk was busy over the weekend handling requests from followers on Twitter. The social media platform recently introduced an ad revenue-sharing program that rewards creators. However, not all …",
+            "url": "https://deadline.com/2023/07/elon-musk-makes-two-important-changes-twitter-ad-revenue-sharing-program-1235439143/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/07/twitter-elon-musk.jpg?w=1024",
+            "publishedAt": "2023-07-16T03:39:00Z",
+            "content": "Elon Musk was busy over the weekend handling requests from followers on Twitter. The social media platform recently introduced an ad revenue-sharing program that rewards creators.\r\nHowever, not all c… [+2311 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Beating Parkinson's: Intense Exercise Regimen Helps Slow Disease Progression - SciTechDaily",
+            "description": "Intensive exercise can slow the progression of Parkinson's disease by improving brain plasticity and neuronal survival, according to a study from the Catholic University, Rome Campus, and A. Gemelli IRCCS Polyclinic Foundation. The findings may guide the deve…",
+            "url": "https://scitechdaily.com/beating-parkinsons-intense-exercise-regimen-helps-slow-disease-progression/",
+            "urlToImage": "https://scitechdaily.com/images/People-Running-on-Treadmills.jpg",
+            "publishedAt": "2023-07-16T02:16:04Z",
+            "content": "ByUniversita Cattolica del Sacro CuoreJuly 15, 2023\r\nNeuroscientists have discovered that intensive exercise can slow the progression of Parkinsons disease. The research unveils a previously unobserv… [+6344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Ciaran Lyons",
+            "title": "SEC could be waiting ‘years’ to file appeal in Ripple case: Brad Garlinghouse - Cointelegraph",
+            "description": "In an interview with Bloomberg on July 15, Ripple CEO Brad Garlinghouse predicted that the \"opportunity\" for the United States Security and Exchange Commission to file an appeal in the Ripple case “would take years.”",
+            "url": "https://cointelegraph.com/news/sec-file-appeal-ripple-case-brad-garlinghouse",
+            "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDcvMWM1MmNkY2QtNGZiYy00MDNjLTlkOTUtZDUzMDYzMDQ5NGU5LmpwZw==.jpg",
+            "publishedAt": "2023-07-16T02:13:25Z",
+            "content": "Ripple CEO Brad Garlinghouse believes the United States Securities and Exchange Commission (SEC) will face a prolonged process before having the chance to appeal Judges Torres favorable ruling in the… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "One officer shot dead, 2 more critically injured in Fargo; suspect also killed - CBS News",
+            "description": "A 25-year-old woman was also seriously wounded in the shooting, which took place on a busy street in Fargo, North Dakota.",
+            "url": "https://www.cbsnews.com/news/fargo-shooting-officer-killed-jake-wallin-2-officers-and-woman-wounded-suspect-dead-north-dakota/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/14/3019a3fe-8f38-48f4-90ac-ce3702d6cc2a/thumbnail/1200x630/f3055d60e098093feeba193bf2fa5309/screen-shot-2023-07-14-at-4-46-31-pm.png?v=b9ad248140817530b57bedd1355bcccb",
+            "publishedAt": "2023-07-16T01:04:00Z",
+            "content": "One police officer was killed and two others were critically injured after a suspect began shooting on a busy street in Fargo, North Dakota, on Friday afternoon, police said. \r\nFargo police officers … [+3720 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Israeli Prime Minister Benjamin Netanyahu hospitalized for dehydration amid heat wave - CBS News",
+            "description": "The Israeli leader's office said the 73-year-old was being treated at Israel's Sheba Hospital, near the coastal city of Tel Aviv.",
+            "url": "https://www.cbsnews.com/news/benjamin-netanyahu-hospitalized-israeli-prime-minister/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/29/3f7b717e-d3d0-43a0-a114-9e342c723575/thumbnail/1200x630g2/346890ba431fd7cf757d13750fdd1352/gettyimages-1473939945.jpg?v=b9ad248140817530b57bedd1355bcccb",
+            "publishedAt": "2023-07-16T01:02:00Z",
+            "content": "Israeli Prime Minister Benjamin Netanyahu on Saturday was rushed to a hospital, where he was assessed to be in \"good condition\" as he underwent a medical evaluation, his office said. Initial tests de… [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Ukraine, Poland say Wagner fighters arrive in Belarus - Reuters",
+            "description": "Fighters from the Wagner group have arrived in Belarus from Russia, Ukrainian and Polish officials said on Saturday, a day after Minsk said the mercenaries were training the country's soldiers southeast of the capital.",
+            "url": "https://www.reuters.com/world/europe/ukraine-poland-say-wagner-fighters-arrive-belarus-2023-07-16/",
+            "urlToImage": "https://www.reuters.com/resizer/WQm8AdPvL3kq_jpjLt1NJgKoRRo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DHKV6BJPGJIF5AZZODNXDR2WJM.jpg",
+            "publishedAt": "2023-07-16T00:47:34Z",
+            "content": "July 16 (Reuters) - Fighters from the Wagner group have arrived in Belarus from Russia, Ukrainian and Polish officials said on Saturday, a day after Minsk said the mercenaries were training the count… [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Sarah Rumpf-Whitten",
+            "title": "Pennsylvania escaped inmate Michael Burham captured following 9-day manhunt: Police - Fox News",
+            "description": "Pennsylvania State Police confirmed that they have apprehended escaped fugitive murder suspect Michael Charles Burham on Saturday evening.",
+            "url": "https://www.foxnews.com/us/pennsylvania-escaped-fugitive-murder-suspect-michael-burham-taken-into-custody",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/07/Burham-Berkeley-County-Capture.jpg",
+            "publishedAt": "2023-07-16T00:32:00Z",
+            "content": "Escaped fugitive murder suspect Michael Charles Burham has been taken into custody \"at gunpoint\" by Pennsylvania State Police, authorities confirmed Saturday.\r\nIn a 7:30 p.m. press conference PSP Lt.… [+3049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Gavilan Fire breaks out in Riverside County - KTLA 5",
+            "description": "Crews are battling a wildfire in Riverside County on Saturday afternoon.Named the “Gavilan Fire,” the blaze was first reported near Gavilan and Idaleona Road...",
+            "url": "https://www.youtube.com/watch?v=Q5FafPfRtPY",
+            "urlToImage": "https://i.ytimg.com/vi/Q5FafPfRtPY/maxresdefault.jpg",
+            "publishedAt": "2023-07-16T00:16:58Z",
+            "content": null
+        }
+    ]
+}
